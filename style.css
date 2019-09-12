@@ -24,23 +24,23 @@ body{
     height: 100vh;
 }
 #home{
-    background-color: #000000;
+    background-color: #051e3e;
 }
 #daily{
-    background-color: #04000c;
+    background-color: #251e3e;
 }
 
 #learn{
-    background-color: #200044; 
+    background-color: #451e3e; 
 }
 #practice{
-    background-color: #190041;
+    background-color: #651e3e;
 }
 li{list-style: none;}
 a{
   text-decoration: none;
   font-size: 19px;
-  color: aliceblue;
+  color: #D6CFCB;
 }
 a:hover{
   color: orangered;
